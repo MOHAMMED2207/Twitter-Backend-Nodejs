@@ -1,0 +1,43 @@
+
+ Register Test Data
+{
+  "username": "Mohamed",
+  "Phone": "01152237712",
+  "age": "22",
+  "country": "Egypt",
+  "city": "Cairo",
+  "email": "moomudi21@gmail.com",
+  "Password": "01152237712",
+  "ProfileImg": "",
+  "CoverImg": "",
+  "bio": "i am developer ",
+  "link": "https://www.com",
+  "role": "Admin"
+},
+-------------- Token : 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1vaGFtZWQiLCJQYXNzd29yZCI6IiQyYiQxMCRoUGY1L3B1LkFCUVlFWEFuWi9tQXIuUGhVekNIaFhVSkRqSi5xaVR1SVl6ZUJidGxrZWg5LiIsImVtYWlsIjoibW9vbXVkaTIxQGdtYWlsLmNvbSIsIlBob25lIjoiMDExNTIyMzc3MTIiLCJhZ2UiOjIyLCJjaXR5IjoiQ2Fpcm8iLCJfaWQiOiI2NjQyMjI4ZWJmNzlkYmU0ZDkzY2FkY2QiLCJpYXQiOjE3MTU2MTAzNzB9._u_LlBZu5KN5vgqIpA_hIvRfi2QruoD0vImOtZODzEc
+-------------- Token : 
+
+
+
+{
+  "username": "Khaled",
+  "Phone": "01129362915",
+  "age": "17",
+  "country": "Egypt",
+  "city": "Cairo",
+  "email": "Khaledftah205@gmail.com",
+  "Password": "01129362915",
+  "ProfileImg": "",
+  "CoverImg": "",
+  "bio": "i am studint ",
+  "link": "https://www.com",
+  "role": "user"
+}
+-------------- Token : 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IktoYWxlZCIsIlBhc3N3b3JkIjoiJDJiJDEwJDlPaVFtNWV0NkF0YXdEdWZEMktMaGVZQmxqUDZWOVd5aFdxLy53MjJTZGhaUkdpczdmdkVlIiwiZW1haWwiOiJLaGFsZWRmdGFoMjA1QGdtYWlsLmNvbSIsIlBob25lIjoiMDExMjkzNjI5MTUiLCJhZ2UiOjE3LCJjaXR5IjoiQ2Fpcm8iLCJfaWQiOiI2NjQzYzcyNzE4MGY2MzM1ZDU2ZWY0YTMiLCJpYXQiOjE3MTU3MTc5NTd9.7GEBVlkLQDrqi2g80TRIq87O97B9zMXkPCqFGDpNqro
+-------------- Token : 
+
+
+
+
