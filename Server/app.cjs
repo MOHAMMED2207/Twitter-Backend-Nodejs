@@ -10,9 +10,9 @@ const app = express();
 dotenv.config();
 app.use(bodyParser.json());
 // -----------------------------------------Routering
-app.use("/", AuthRouter); // Auth
-app.use("/", UserRouter); // User
-app.use("/", PostsRouter); // Post
+app.use("/api", AuthRouter); // Auth
+app.use("/api", UserRouter); // User
+app.use("/api", PostsRouter); // Post
 app.use("/api/notifications", notificationRoutes);
 
 // -----------------------------------------Routering
