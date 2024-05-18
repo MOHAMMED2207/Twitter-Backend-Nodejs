@@ -4,24 +4,24 @@ const AUTH_MIDDLEWARES = require("../middlewares/authentication.cjs"); // Routes
 const router = Express.Router();
 // ------------------------------------------------------------------------------------
 router.get(
-  "api/user/profile",
+  "/user/profile",
   AUTH_MIDDLEWARES,
   UserControllr.getUserProfile
 );
 // ------------------------------------------------------------------------------------
 router.get(
-  "api/user/suggested",
+  "/user/suggested",
   AUTH_MIDDLEWARES,
   UserControllr.getSuggestedUsers
 );
 // ------------------------------------------------------------------------------------
 router.post(
-  "api/user/follow/:id",
+  "/user/follow/:id",
   AUTH_MIDDLEWARES,
   UserControllr.followUnfollowUser
 );
 // ------------------------------------------------------------------------------------
-router.post("api/user/update", AUTH_MIDDLEWARES, UserControllr.updateUser);
+router.post("/user/update", AUTH_MIDDLEWARES, UserControllr.updateUser);
 // ------------------------------------------------------------------------------------
 
 module.exports = router; //  Exports
